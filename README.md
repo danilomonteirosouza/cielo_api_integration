@@ -1,4 +1,4 @@
-<h1>Titulo ou Arte do Projeto</h1> 
+<h1>CIELO MOBILE API INTEGRATION</h1> 
 
 <p align="center">
   <img src="https://img.shields.io/static/v1?label=react&message=framework&color=blue&style=for-the-badge&logo=REACT"/>
@@ -137,4 +137,4 @@ Liste o time responsável pelo desenvolvimento do projeto
 
 The [MIT License]() (MIT)
 
-Copyright :copyright: 2022 - Cielo API Integration
+Copyright :copyright: 2022 - CIELO MOBILE API INTEGRATION
